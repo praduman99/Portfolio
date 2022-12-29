@@ -10,6 +10,7 @@ import {
   skills,
   services,
   downloadResume,
+  myblogs,
 } from "../../content_option";
 
 export const About = () => {
@@ -82,7 +83,10 @@ export const About = () => {
             {skills.map((data, i) => {
               return (
                 <div key={i}>
+                  <div  style={{display:'flex'}}>
+                  <img src={data.icon} height="30px" width="30px"/>
                   <h3 className="progress-title">{data.name}</h3>
+                  </div>
                   <div className="progress">
                     <div
                       className="progress-bar"
@@ -108,6 +112,25 @@ export const About = () => {
                 <div className="service_ py-4" key={i}>
                   <h5 className="service__title">{data.title}</h5>
                   <p className="service_desc">{data.description}</p>
+                </div>
+              );
+            })}
+          </Col>
+        </Row>
+        <Row className="sec_sp">
+          <Col lang="5">
+            <h3 className="color_sec py-4">My Blogs</h3>
+          </Col>
+          <Col lg="7">
+            {myblogs.map((data, i) => {
+              return (
+                <div className="service_ py-4" key={i}>
+                  <h5 className="service__title">{data.title}</h5>
+                  <div style={{display:'flex', justifyContent:'space-between',flexWrap:"wrap"}}>
+                  <img src={data.img} width={'300px'} height={'200px'} />
+                  <p className="service_desc">{data.desc}</p>
+                  </div>
+                 <a href={data.link} className="link" target="_blank">See More ...</a>
                 </div>
               );
             })}
