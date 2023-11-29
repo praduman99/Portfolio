@@ -12,7 +12,7 @@ const introdata = {
     third: "I develop mobile apps",
   },
   description:
-    "Dedicated and efficient full stack developer in MERN STACK with 2+ years experience in application layers, presentation layers, and databases. Certified in both F/E and B/E technologies. Currently working for firm called as Coders Brain  Technology https://www.codersbrain.com ",
+    "Dedicated and efficient full stack developer in MERN STACK with 3+ years experience in application layers, presentation layers, and databases. Certified in both F/E and B/E technologies. ",
   your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 
