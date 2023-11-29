@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Pradumansharma/static/css/main.9027d8b9.chunk.css",
+    "main.js": "/Pradumansharma/static/js/main.2a07d78e.chunk.js",
+    "main.js.map": "/Pradumansharma/static/js/main.2a07d78e.chunk.js.map",
+    "runtime-main.js": "/Pradumansharma/static/js/runtime-main.a03c6505.js",
+    "runtime-main.js.map": "/Pradumansharma/static/js/runtime-main.a03c6505.js.map",
+    "static/css/2.c4e73993.chunk.css": "/Pradumansharma/static/css/2.c4e73993.chunk.css",
+    "static/js/2.467b698a.chunk.js": "/Pradumansharma/static/js/2.467b698a.chunk.js",
+    "static/js/2.467b698a.chunk.js.map": "/Pradumansharma/static/js/2.467b698a.chunk.js.map",
+    "static/js/3.e589488d.chunk.js": "/Pradumansharma/static/js/3.e589488d.chunk.js",
+    "static/js/3.e589488d.chunk.js.map": "/Pradumansharma/static/js/3.e589488d.chunk.js.map",
+    "index.html": "/Pradumansharma/index.html",
+    "static/css/2.c4e73993.chunk.css.map": "/Pradumansharma/static/css/2.c4e73993.chunk.css.map",
+    "static/css/main.9027d8b9.chunk.css.map": "/Pradumansharma/static/css/main.9027d8b9.chunk.css.map",
+    "static/js/2.467b698a.chunk.js.LICENSE.txt": "/Pradumansharma/static/js/2.467b698a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a03c6505.js",
+    "static/css/2.c4e73993.chunk.css",
+    "static/js/2.467b698a.chunk.js",
+    "static/css/main.9027d8b9.chunk.css",
+    "static/js/main.2a07d78e.chunk.js"
+  ]
+}
